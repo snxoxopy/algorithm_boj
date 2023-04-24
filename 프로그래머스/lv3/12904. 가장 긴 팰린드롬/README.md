@@ -1,10 +1,10 @@
 # [level 3] 가장 긴 팰린드롬 - 12904 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12904?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12904) 
 
 ### 성능 요약
 
-메모리: 60.3 MB, 시간: 941.71 ms
+메모리: 57.9 MB, 시간: 624.64 ms
 
 ### 구분
 
@@ -12,7 +12,7 @@
 
 ### 채점결과
 
-<br/>정확성: 69.3<br/>효율성: 30.7<br/>합계: 100.0 / 100.0
+Empty
 
 ### 문제 설명
 
